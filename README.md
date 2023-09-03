@@ -10,7 +10,8 @@ I'm working on various e-commerce websites using Shopify.
 
 🔗 My LinkedIn profile https://www.linkedin.com/in/naoki-mitsutake-286421239/
 
-Happy Coding!
+
+💻Happy Coding!
 
 
 -Technology-
