@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Naoki from Japan. I work as a full-stack developer based in Vancouver.
+I'm Naoki from Japan. I currently work as a full-stack developer.
 
 I'm working on various e-commerce websites using Shopify.
 
